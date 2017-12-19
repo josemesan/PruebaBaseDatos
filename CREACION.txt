@@ -1,0 +1,18 @@
+? (1/16) Which *type* of application would you like to create? Monolithic application (recommended for simple projects)
+? (2/16) What is the base name of your application? PruebaBaseDatos
+? (3/16) What is your default Java package name? com.mycompany.myapp
+? (4/16) Do you want to use the JHipster Registry to configure, monitor and scale your application? Yes
+? (5/16) Which *type* of database would you like to use? SQL (H2, MySQL, MariaDB, PostgreSQL, Oracle, MSSQL)
+? (6/16) Which *production* database would you like to use? MySQL
+? (7/16) Which *development* database would you like to use? MySQL
+? (8/16) Do you want to use Hibernate 2nd level cache? Yes, with ehcache (local cache, for a single node)
+? (9/16) Would you like to use Maven or Gradle for building the backend? Maven
+? (10/16) Which other technologies would you like to use?
+? (11/16) Which *Framework* would you like to use for the client? Angular 4
+? (12/16) Would you like to use the LibSass stylesheet preprocessor for your CSS? Yes
+? (13/16) Would you like to enable internationalization support? Yes
+? Please choose the native language of the application Spanish
+? Please choose additional languages to install English, French
+? (14/16) Besides JUnit and Karma, which testing frameworks would you like to use?
+? (15/16) Would you like to install other generators from the JHipster Marketplace? No
+
